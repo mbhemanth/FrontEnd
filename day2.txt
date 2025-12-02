@@ -1,0 +1,9 @@
+Today I learned the basic structure of an HTML webpage and how each part works.
+
+1. I understood how the <!DOCTYPE html> declaration tells the browser that the page is written in HTML5.
+
+2. I learned the purpose of the <html>, <head>, and <body> sections:
+   - <head> contains the title and meta information.
+   - <body> contains all the visible content of the webpage.
+
+3. I used headings like <h1> and <h2> to organize the content properly.
