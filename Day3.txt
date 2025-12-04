@@ -1,0 +1,10 @@
+Today I learned the basic structure of an HTML webpage and how each part works
+
+1. I learned how to create paragraphs using the <p> tag.
+
+2. I practiced creating a list using the <ul> and <li> tags to display items.
+
+3. I used an anchor tag <a> to create a clickable email link.
+
+4. I understood how HTML structure helps in building clean and readable webpages.
+
