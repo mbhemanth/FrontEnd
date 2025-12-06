@@ -1,4 +1,4 @@
- I learned the basic structure of an HTML webpage and how each part works.
+I learned the basic structure of an HTML webpage and how each part works.
 
 1. I understood how the <!DOCTYPE html> declaration tells the browser that the page is written in HTML5.
 
