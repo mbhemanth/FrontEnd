@@ -1,0 +1,19 @@
+Day 4 – Frontend Development Learning
+------------------------------------
+
+Today I learned a few more basic HTML concepts on top of the normal tags like <h1>, <p>, <img>, and <a>.
+
+1. I learned how to use the <div> tag to group elements together. 
+   It acts like a simple container to organize the webpage layout.
+
+2. I practiced making ordered lists (<ol>) and unordered lists (<ul>) with list items (<li>).
+
+3. I learned how to use the <br> tag for line breaks and <hr> to add a horizontal line to separate sections.
+
+4. I explored adding simple comments in HTML using:
+   <!-- This is a comment -->
+   Comments help explain the code but do not appear on the webpage.
+
+5. I created a small webpage where I used multiple headings, paragraphs, a list, and a division to keep the content structured.
+
+This helped me understand how to organize an HTML page better and build slightly more structured webpages.
