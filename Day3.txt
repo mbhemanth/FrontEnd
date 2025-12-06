@@ -1,3 +1,6 @@
+Day 3- Frontend development learning 
+------------------------------------
+
 Today I learned the basic structure of an HTML webpage and how each part works
 
 1. I learned how to create paragraphs using the <p> tag.
