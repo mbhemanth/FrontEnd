@@ -1,6 +1,5 @@
 Day 4 – Frontend Development Learning
 --------------------------------------
-
 Today I learned a few more basic HTML concepts on top of the normal tags like <h1>, <p>, <img>, and <a>.
 
 1. I learned how to use the <div> tag to group elements together. 
