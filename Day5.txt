@@ -1,5 +1,5 @@
 Day 5-Frontend Development Learning
---------------------------------------
+------------------------------------
 
 Today I started learning the basics of CSS (Cascading Style Sheets). 
 CSS is used to style HTML pages and make them look better.
