@@ -1,4 +1,4 @@
-Day5-Frontend Development Learning
+Day 5-Frontend Development Learning
 ------------------------------------
 
 Today I started learning the basics of CSS (Cascading Style Sheets). 
