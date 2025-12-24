@@ -1,4 +1,4 @@
-Day 2- Frontend development learning 
+Day2- Frontend development learning 
 --------------------------------------
 I learned the basic structure of an HTML webpage and how each part works.
 
